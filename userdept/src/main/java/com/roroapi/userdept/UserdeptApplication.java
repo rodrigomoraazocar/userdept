@@ -1,4 +1,4 @@
-package com.devsuperior.userdept;
+package com.roroapi.userdept;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
